@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Patrick N Lewis | NYC Product Designer',
   },
   plugins: ['gatsby-plugin-react-helmet'],
 }
